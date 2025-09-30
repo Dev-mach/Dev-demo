@@ -1,3 +1,3 @@
 # Dev-demo
-This is a Git Repository
+This is a Git Repository.
 Author - Devma
